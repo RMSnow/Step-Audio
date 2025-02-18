@@ -1,0 +1,16 @@
+{
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.inlayHints.enabled": "off"
+    },
+    "python.formatting.provider": "black",
+    "notebook.formatOnSave.enabled": true,
+    "python.analysis.inlayHints.functionReturnTypes": false,
+    "python.analysis.inlayHints.variableTypes": false,
+    "editor.inlayHints.enabled": "off",
+    "python.languageServer": "None",
+    "python.analysis.typeCheckingMode": "off",
+    "pyright.inlayHints.functionReturnTypes": false,
+    "pyright.inlayHints.variableTypes": false
+}
